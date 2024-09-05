@@ -1,8 +1,15 @@
+name: markscribe
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
 jobs:
   markscribe:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -10,7 +17,7 @@ jobs:
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.SATYAM }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           template: 'README.gtpl'
           writeTo: 'README.md'
@@ -18,6 +25,6 @@ jobs:
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
-          GITHUB_TOKEN: ${{ secrets.SATYAM }}
+          GITHUB_TOKEN: ${{ github.metrics }}
         with:
           commit_message: 'markscribe: update README.md'
