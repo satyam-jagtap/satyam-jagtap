@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.SATYAM }}
 
           # Options
-          user: satyam-jagtap
+          user: AbhishekSalokhe24
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
