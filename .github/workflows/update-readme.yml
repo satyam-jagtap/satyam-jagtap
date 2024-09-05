@@ -33,10 +33,10 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.SATYAM }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: AbhishekSalokhe24
+          user: aarjaycreation
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
