@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.STAYAM_CL }}
 
           # Options
-          user: aarjaycreation
+          user: satyam-jagtap
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
