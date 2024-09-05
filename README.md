@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Jangir
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satyam Jagtap
 ========================================================================================================================================
 
 I am Front End developer.
@@ -47,11 +47,5 @@ I am Front End developer.
 
 - [aarjaycreation/Wedding-Invitation](https://github.com/aarjaycreation/Wedding-Invitation) - An enchanting wedding website: HTML, CSS, JS with RSVP &amp; ScrollReveal. Create your own special invite! 💍💐💌
 - [aarjaycreation/aarjaycreation](https://github.com/aarjaycreation/aarjaycreation) - Rahul Readme
-### 📰 Recent Blog Posts
 
-- [Crowdstrike Alternatives](https://christitus.com/crowdstrike-alternatives/)
-- [Home Theater PC](https://christitus.com/home-theater-pc/)
-- [Why You NEED to Contribute to Open Source](https://christitus.com/why-you-NEED-to-contribute-to-open-source/)
-- [My Problems With Linux](https://christitus.com/my-problems-with-linux/)
-- [Ultra BASH Prompt](https://christitus.com/mybash/)
 
