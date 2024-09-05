@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Front End developer.
 --------------------------
 
-*   🌍  I'm based in Sikar, Rajasthan
+*   🌍  I'm based in Malkapur, Maharastra
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://aarjaycreation.com/'>Portfolio</a>
 *   🧠  Currently learning Angular
 *   🤝  I'm open to collaborating on interesting projects as a developer

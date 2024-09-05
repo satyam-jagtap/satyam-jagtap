@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Jangir
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Satyam Jagtap
 ========================================================================================================================================
 
 I am Front End developer.
 --------------------------
 
-*   🌍  I'm based in Sikar, Rajasthan
+*   🌍  I'm based in Malkapur, Maharastra
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://aarjaycreation.com/'>Portfolio</a>
 *   🧠  Currently learning Angular
 *   🤝  I'm open to collaborating on interesting projects as a developer
@@ -48,8 +48,5 @@ I am Front End developer.
 {{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
-### 📰 Recent Blog Posts
-{{ range rss "https://christitus.com/index.xml" 5 }}
-- [{{ .Title }}]({{ .URL }})
-{{- end }}
+
 
