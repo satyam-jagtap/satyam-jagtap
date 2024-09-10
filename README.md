@@ -46,6 +46,5 @@ I am Front End developer.
 ### ⭐ Recent Stars
 
 - [aarjaycreation/Wedding-Invitation](https://github.com/aarjaycreation/Wedding-Invitation) - An enchanting wedding website: HTML, CSS, JS with RSVP &amp; ScrollReveal. Create your own special invite! 💍💐💌
-- [aarjaycreation/aarjaycreation](https://github.com/aarjaycreation/aarjaycreation) - Rahul Readme
 
 
